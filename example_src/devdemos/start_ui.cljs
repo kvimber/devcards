@@ -1,6 +1,9 @@
 (ns devdemos.start-ui
   (:require
    [devcards.core]
+   [devdemos.kevin]
+   [devdemos.p5]
+   [devdemos.new-card]
    [devdemos.defcard-api]
    [devdemos.om-next]
    [devdemos.reagent]
